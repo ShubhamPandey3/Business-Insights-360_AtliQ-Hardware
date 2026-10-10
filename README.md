@@ -1,7 +1,7 @@
-# Business-Insights-360_AtliQ-Hardware 📈
+# Business-Insights-360_Data Analysis Project 📈
 Welcome to Business Insights 360 - Your Gateway to Data-Driven Decision Making!
 
-This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth
+This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics (KPM) across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth
 
 # 📕 Project Overview
 
@@ -124,6 +124,13 @@ AtliQ's Market Share & Revenue Contribution
 # Tools Used:
 
 **SQL, Power BI Desktop, DAX language, DAX studio (to reduce file size), Project Charter file**
+
+# Key Insights 📈
+
+. IT department achieved the highest average performance (4.6).
+. North region leads in total revenue, East has the best profit margin (21.8%).
+. Discounts above 15% reduce profit by ~20% on average.
+. Profit Margin %: 18.3% company-wide.
 
 # Conclusion :
 

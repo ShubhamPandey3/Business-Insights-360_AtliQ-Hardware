@@ -128,8 +128,11 @@ AtliQ's Market Share & Revenue Contribution
 # Key Insights 📈
 
 . IT department achieved the highest average performance (4.6).
+
 . North region leads in total revenue, East has the best profit margin (21.8%).
+
 . Discounts above 15% reduce profit by ~20% on average.
+
 . Profit Margin %: 18.3% company-wide.
 
 # Conclusion :
